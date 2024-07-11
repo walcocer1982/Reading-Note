@@ -1,2 +1,4 @@
 # Notas de lectura
-Notas de lectura para mis cursos de Enter Tech Shool
+Lectura para mis cursos de Enter Tech Shool
+## Autor
+Walther Alcocer
