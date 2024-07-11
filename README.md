@@ -17,4 +17,4 @@ Para más información, no dudes en [contactarme](walcocer.1982@gmail.com).
 
 ![Tu Foto](https://media.licdn.com/dms/image/D5603AQHaV_kCTVn9pQ/profile-displayphoto-shrink_800_800/0/1698715484364?e=1724284800&v=beta&t=ZNQXLtEgjLE5E5v-55_fK-q9B4iSE05COT96xRexMO0)
 
-Recuerda visitar mi [portafolio](https://github.com/USERNAME) para más proyectos.
+Recuerda visitar mi [portafolio](https://github.com/walcocer1982) para más proyectos.
