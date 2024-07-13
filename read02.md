@@ -16,4 +16,5 @@
 - **cd ..** : Sube un nivel en el sistema de archivos. Si estabas en projects, ahora estarás en el directorio padre de projects.
 - **ls projects/new-project**: Lista el contenido del directorio projects/new-project, mostrando newfile.md si se creó correctamente.
   
-Mi [URL walcocer.1982](https://walcocer1982.github.io/Reading-Note/read02)
+## Mi URL 
+[walcocer.1982](https://walcocer1982.github.io/Reading-Note/read02)
