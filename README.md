@@ -1,5 +1,5 @@
 # Introducción
-Me llamo Jordan Trejo Giraldo vivo en Ancash y estudio en Enter Tech School
+Me llamo Walther Alcocero vivo en Lima , trabajo en CETEMIN y estudio en Enter Tech School
 # De que trata el sitio
 Pongo los resumenes de las lecturas y trabajos realizados en el programa.
 ## Tabla de contenido
