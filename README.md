@@ -1,10 +1,10 @@
 # Introducción
-Me llamo Walther Alcocero vivo en Lima , trabajo en CETEMIN y estudio en Enter Tech School
+Me llamo Walther Alcocer vivo en Lima , trabajo en CETEMIN y estudio en Enter Tech School
 # De que trata el sitio
 Pongo los resumenes de las lecturas y trabajos realizados en el programa.
 ## Tabla de contenido
 ### Notas de lectura de Code 102
-* [Read1](https://jordantgr.github.io/Reading-notes_n2_1/Code102/Readme01)
+* [Read1](https://github.com/walcocer1982/Reading-Note/blob/main/102/read01.md))
 * [Read2](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme02)
 * [Read3](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme03)
 * [Read4](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme04)
