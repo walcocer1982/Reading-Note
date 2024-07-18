@@ -4,14 +4,14 @@ Me llamo Walther Alcocer vivo en Lima , trabajo en CETEMIN y estudio en Enter Te
 Pongo los resumenes de las lecturas y trabajos realizados en el programa.
 ## Tabla de contenido
 ### Notas de lectura de Code 102
-* [Read1](https://github.com/walcocer1982/Reading-Note/blob/main/102/read01.md))
-* [Read2](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme02)
-* [Read3](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme03)
-* [Read4](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme04)
-* [Read5](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme05)
-* [Read6](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme06)
-* [Read7](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme07)
-* [Read8](https://jordantgr.github.io/Reading-notes_n2_1/Code102/readme08)
+* [Read1](https://github.com/walcocer1982/Reading-Note/blob/main/102/read01.md)
+* [Read2](https://github.com/walcocer1982/Reading-Note/blob/main/102/read02.md)
+* [Read3](https://github.com/walcocer1982/Reading-Note/blob/main/102/read03.md)
+* [Read4](https://github.com/walcocer1982/Reading-Note/blob/main/102/read04.md)
+* [Read5](https://github.com/walcocer1982/Reading-Note/blob/main/102/read05.md)
+* [Read6](https://github.com/walcocer1982/Reading-Note/blob/main/102/read06.md)
+* [Read7](https://github.com/walcocer1982/Reading-Note/blob/main/102/read07.md)
+* [Read8](https://github.com/walcocer1982/Reading-Note/blob/main/102/read08.md)
 ### Notas de lectura Code 201
 * Read1
 * Read2
