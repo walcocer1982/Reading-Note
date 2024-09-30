@@ -1,4 +1,4 @@
-# Seguridad Psicológica
+# Lectura - Seguridad Psicológica
 
 ## 1. ¿Cuáles son los tres factores clave que contribuyen a los equipos psicológicamente seguros?
 
