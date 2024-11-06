@@ -1,4 +1,4 @@
-### ¿Qué es un “componente”?
+### ¿Qué es un componente?
 
 Un componente es como una pieza independiente de software que tiene una función específica. Está diseñado para funcionar con otras piezas, pero sin mostrar cómo trabaja internamente. Imaginemos como si fuese un bloque de Lego: cada pieza tiene un propósito y se conecta con otras sin importar cómo están hechas por dentro, siempre y cuando encajen. Un componente se puede usar varias veces, mover de un lugar a otro y hasta cambiarlo por 
 otro similar sin problemas.
