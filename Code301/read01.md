@@ -22,7 +22,7 @@ otro similar sin problemas.
 7. **Fácil de mantener**: Actualizar el sistema o realizar cambios es más fácil sin impactar el resto.
 8. **Independencia**: Cada equipo puede trabajar en diferentes componentes al mismo tiempo, lo que hace el desarrollo más rápido y flexible.
 
-### ¿Qué significa “props”?
+### ¿Qué significa props?
 
 En React, **"props"** es la abreviatura de "properties" o propiedades. Son una forma de pasar datos o información de un componente "padre" a un componente "hijo". Esto permite que los componentes tengan datos personalizados y puedan mostrar resultados dinámicos y únicos.
 
