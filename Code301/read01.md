@@ -22,7 +22,8 @@ otro similar sin problemas.
 7. **Fácil de mantener**: Actualizar el sistema o realizar cambios es más fácil sin impactar el resto.
 8. **Independencia**: Cada equipo puede trabajar en diferentes componentes al mismo tiempo, lo que hace el desarrollo más rápido y flexible.
 
-### ¿Qué significa props?
+
+### ¿Qué significa “props”?
 
 En React, **"props"** es la abreviatura de "properties" o propiedades. Son una forma de pasar datos o información de un componente "padre" a un componente "hijo". Esto permite que los componentes tengan datos personalizados y puedan mostrar resultados dinámicos y únicos.
 
@@ -39,4 +40,63 @@ Ejemplo de cómo se envían props:
   desc="Comfortable running sneakers"
   price="$29"
 />
+```
 
+### ¿Cuál es el flujo de los props?
+El flujo de los props en React es unidireccional, lo que significa que la información va solo en una dirección: del componente "padre" al componente "hijo". El componente "hijo" no puede cambiar los valores de los props que recibe, solo los usa para mostrar o realizar acciones. Esto ayuda a mantener el código organizado y evita que los datos se modifiquen accidentalmente en múltiples lugares.
+
+```jsx
+function Product(props) {
+    return (
+      <div>
+        <img src={props.img} alt="product" />
+        <h4>{props.name}</h4>
+        <p>{props.desc}</p>
+        <h4>{props.price}</h4>
+      </div>
+    );
+}
+```
+Desestructuración de Props
+Para hacer el código más claro y evitar repetir props, se puede usar desestructuración en JavaScript. Esto permite extraer las propiedades directamente en variables, haciéndolo más limpio y fácil de leer.
+
+Por ejemplo, en lugar de escribir props.img o props.name, puedes desestructurarlos así:
+
+
+Aquí tienes la continuación:
+
+markdown
+Copiar código
+Para que el componente "hijo" use los props, simplemente los recibe como un parámetro en la función del componente. Luego, dentro del componente, puedes usar esos valores para personalizar lo que se muestra o hace.
+
+Ejemplo de cómo se acceden los props en el componente "hijo":
+
+```jsx
+function Product(props) {
+    return (
+      <div>
+        <img src={props.img} alt="product" />
+        <h4>{props.name}</h4>
+        <p>{props.desc}</p>
+        <h4>{props.price}</h4>
+      </div>
+    );
+}
+Desestructuración de Props
+Para hacer el código más claro y evitar repetir props, se puede usar desestructuración en JavaScript. Esto permite extraer las propiedades directamente en variables, haciéndolo más limpio y fácil de leer.
+
+Por ejemplo, en lugar de escribir props.img o props.name, puedes desestructurarlos así:
+```
+jsx
+Copiar código
+function Product({ img, name, desc, price }) {
+    return (
+      <div>
+        <img src={img} alt="product" />
+        <h4>{name}</h4>
+        <p>{desc}</p>
+        <h4>{price}</h4>
+      </div>
+    );
+}
+```
