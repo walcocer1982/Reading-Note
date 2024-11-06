@@ -21,3 +21,22 @@ otro similar sin problemas.
 6. **Aumenta la confiabilidad**: Si cada componente funciona bien, el sistema en su conjunto será más confiable.
 7. **Fácil de mantener**: Actualizar el sistema o realizar cambios es más fácil sin impactar el resto.
 8. **Independencia**: Cada equipo puede trabajar en diferentes componentes al mismo tiempo, lo que hace el desarrollo más rápido y flexible.
+
+### ¿Qué significa “props”?
+
+En React, **"props"** es la abreviatura de "properties" o propiedades. Son una forma de pasar datos o información de un componente "padre" a un componente "hijo". Esto permite que los componentes tengan datos personalizados y puedan mostrar resultados dinámicos y únicos.
+
+### ¿Cómo se utilizan los props en React?
+
+Para usar props, se envían como si fueran atributos en HTML. En el componente "padre", defines los props y sus valores cuando llamas al componente "hijo". Luego, el componente "hijo" recibe esos valores y puede usarlos en su interior.
+
+Ejemplo de cómo se envían props:
+
+```jsx
+<Product
+  img="https://example.com/product.jpg"
+  name="Sneakers"
+  desc="Comfortable running sneakers"
+  price="$29"
+/>
+
